@@ -1,0 +1,48 @@
+100:
+
+Tempo de Execucao Insert = 0.000023 2442 2348
+
+Tempo de Execucao Select = 0.000031 4950 99
+
+Tempo de Execucao Quicksort = 0.000017 582 428
+
+------------------------------------------------
+1000:
+
+Tempo de Execucao Insert = 0.002155 248515 247523
+
+Tempo de Execucao Select = 0.002517 499500 999
+
+Tempo de Execucao Quicksort = 0.000249 9053 6360
+
+------------------------------------------------
+10000:
+
+Tempo de Execucao Insert = 0.201881 25172473 25162481
+
+Tempo de Execucao Select = 0.213787 49995000 9999
+
+Tempo de Execucao Quicksort = 0.003007 130565 81951
+
+------------------------------------------------
+100000:
+
+Tempo de Execucao Insert = 19.997725 2502446464 2502346475
+
+Tempo de Execucao Select = 21.961168 4999950000 99999
+
+Tempo de Execucao Quicksort = 0.036392 1780086 1124373
+
+--------------------------------------------
+10000 decrescente
+
+Tempo de Execucao Insert = 0.401917 49995000 49995000
+
+Tempo de Execucao Select = 0.225027 49995000 9999
+
+Tempo de Execucao Quicksort = 0.003732 225614 144252
+
+----------------------------------------------
+
+
+
